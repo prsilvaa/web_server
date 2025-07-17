@@ -6,6 +6,7 @@
 <h2>Tools Used</h2>
 <ul>
   <li>Linux Commands </li>
+  <li>Wordpress </li>
   <li>Apache2 </li>
   <li>Mariadb </li>
   <li>PHP </li>
